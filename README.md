@@ -1,7 +1,7 @@
 # Hi there, I'm Julian - Welcome to my Profile 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://juliantran-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://juliantran-dev.netlify.app/)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge)](https://juliantran-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/website?label=LinkedIn&style=for-the-badge)](https://juliantran-dev.netlify.app/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
