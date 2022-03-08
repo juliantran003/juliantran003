@@ -1,7 +1,7 @@
 # Hi there, I'm Julian - Welcome to my Profile 👋
 
 
-[![Website](https://juliantran-dev.netlify.app/&style=for-the-badge&url=https%3A%2F%2FMy Website)](https://juliantran-dev.netlify.app/)
+[![Website](https://juliantran-dev.netlify.app&style=for-the-badge)](https://juliantran-dev.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
