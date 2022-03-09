@@ -12,7 +12,6 @@ Open to work so please do contact me if you have any questions!
 
 [![website](./img/globe-light.svg)](https://juliantran-dev.netlify.app/)
 [![website](./img/globe-dark.svg)](https://juliantran-dev.netlify.app/)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/julian-tran)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/julian-tran)
 
