@@ -6,7 +6,7 @@
 
 I build modern websites with [React](https://fr.reactjs.org/) [<img  alt="React" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist] and custom servers with [Node.js](https://nodejs.org/en/) [<img  alt="Node.js" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist] from scratch.
 I was trained at [Le Réacteur](https://www.lereacteur.io/?utm_source=googleads&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAqCqalc5yGCKU1z4wD0IL6aMlhSxhu8E9CjUmWj7aK5EpHHn9yPa0QaAhzuEALw_wcB) from March to June 2021 and have been on my coding journey ever since.<br /><br />
-Open to work so please do contact me if you have any questions!
+💼 Open to work so please do contact me if you have any questions 💼
 
 ### Connect with me:
 
