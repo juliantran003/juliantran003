@@ -12,8 +12,8 @@ I was trained at [Le Réacteur](https://www.lereacteur.io/?utm_source=googleads&
 
 [![website](./img/globe-light.svg)](https://juliantran-dev.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://juliantran-dev.netlify.app/#gh-dark-mode-only)
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/julian-tran#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/julian-tran#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/julian-tran-6b4081206/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/julian-tran-6b4081206/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -44,7 +44,7 @@ I was trained at [Le Réacteur](https://www.lereacteur.io/?utm_source=googleads&
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/julian-tran
+[linkedin]: https://www.linkedin.com/in/julian-tran-6b4081206/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
