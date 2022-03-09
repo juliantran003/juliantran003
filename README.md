@@ -38,7 +38,7 @@ Open to work so please do contact me if you have any questions!
 <br />
 <br />
 
-  <img align="left" alt="juliantran003's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliantran003&show_icons=true&hide_border=false?count_private=true&theme=tokyonight&include_all_commits=true" />
+  <img align="left" alt="juliantran003's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juliantran003&show_icons=true&hide_border=false?count_private=true&theme=default&include_all_commits=true" />
 
 [website]: https://juliantran-dev.netlify.app/
 [course]: http://vsCodeHero.com
