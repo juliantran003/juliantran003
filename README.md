@@ -10,10 +10,10 @@ Open to work so please do contact me if you have any questions!
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://juliantran-dev.netlify.app/)
-[![website](./img/globe-dark.svg)](https://juliantran-dev.netlify.app/)
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/julian-tran)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/julian-tran)
+[![website](./img/globe-light.svg)](https://juliantran-dev.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://juliantran-dev.netlify.app/#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/julian-tran#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/julian-tran#gh-dark-mode-only)
 
 ### Languages and Tools:
 
